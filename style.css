@@ -108,25 +108,25 @@ nav ul#menu{
 }
 .bck-image{
         background-image: url('foto cv.jpg');
+        position:absolute;
+        width:150px;
+        height:140px;
+        padding:1em;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        -ms-background-size: cover;
+        background-size: cover;
+        background-position: top center;
+        background-repeat: no-repeat;
+        z-index: -1;
+        opacity: .7;
+        border-radius: 100%;
+        margin:10px auto;
+        padding:60px;
+
       
-    
-    
-    position: absolute;
-    width:100%;
-    height:660px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    -ms-background-size: cover;
-    background-size: cover;
-    background-position: top center;
-    background-repeat: no-repeat;
-    z-index: -1;
-    opacity: .6;
-    
-    
-    
-    
+
 }
 
 .btn{
