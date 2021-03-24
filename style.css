@@ -109,7 +109,7 @@ nav ul#menu{
 .bck-image{
         background-image: url('foto cv.jpg');
         position:absolute;
-        width:150px;
+        width:150%;
         height:140px;
         padding:1em;
         -webkit-background-size: cover;
@@ -124,9 +124,6 @@ nav ul#menu{
         border-radius: 100%;
         margin:10px auto;
         padding:60px;
-
-      
-
 }
 
 .btn{
