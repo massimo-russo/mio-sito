@@ -107,7 +107,7 @@ nav ul#menu{
     flex:1 0 auto;
 }
 .bck-image{
-    background-image: url('foto cv.jpg');
+    background-image: url('foto.png');
     position: absolute;
     width:100%;
     height:660px;
