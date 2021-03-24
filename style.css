@@ -86,7 +86,7 @@ ul{
     grid-column: 1/2;
 }
 .logo-container img{
-    width:10%;
+   width:10%;
     min-width: 88px;
     border-radius: 100%;
     background-color: white;
@@ -107,23 +107,19 @@ nav ul#menu{
     flex:1 0 auto;
 }
 .bck-image{
-        background-image: url('foto cv.jpg');
-        position:absolute;
-        width:150%;
-        height:140px;
-        padding:1em;
-        -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        -ms-background-size: cover;
-        background-size: cover;
-        background-position: top center;
-        background-repeat: no-repeat;
-        z-index: -1;
-        opacity: .7;
-        border-radius: 100%;
-        margin:10px auto;
-        padding:60px;
+    background-image: url('foto cv.jpg');
+    position: absolute;
+    width:100%;
+    height:660px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: .6;
 }
 
 .btn{
