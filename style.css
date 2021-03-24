@@ -91,7 +91,7 @@ ul{
     border-radius: 100%;
     background-color: white;
     margin:10px auto;
-    padding:30px;
+    padding:10px;
 }
 nav{
     grid-column: 2/5;
