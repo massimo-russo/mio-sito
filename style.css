@@ -15,11 +15,6 @@ body{
     text-align: center;
 }
 
-/*animazione*/
-
-
-  
-
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -112,7 +107,7 @@ nav ul#menu{
     flex:1 0 auto;
 }
 .bck-image{
-        /*background-image: url('animazione.gif');*/
+        background-image: url('animazione.gif');
         position:unset;
         width:200px;
         height:135px;
